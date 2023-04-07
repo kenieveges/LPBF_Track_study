@@ -62,4 +62,4 @@ $$ \sigma_{w}^2 = \dfrac{w_1^2 \sigma_1^2 + w_2^2 \sigma_2^2}{w_1^2 + w_2^2},$$
 <img style="display: block;  margin-left: auto; margin-right: auto; width: 100%;" src="./illustrations/flux_density.png"> </img>
 
 График 2. Окно параметров с учетом параметра качества ($extent$):
-<img style="display: block;  margin-left: auto; margin-right: auto; width: 100%;" src=".\illustrations\flux_density_with_tracks.png"> </img>
+<img style="display: block;  margin-left: auto; margin-right: auto; width: 100%;" src="./illustrations/flux_density_with_tracks.png"> </img>
